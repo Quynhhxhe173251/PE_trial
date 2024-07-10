@@ -1,0 +1,14 @@
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.exe
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.deps.json
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.runtimeconfig.json
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.dll
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.pdb
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfoInputs.cache
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfo.cs
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.csproj.CoreCompileInputs.cache
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.dll
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\refint\Question1.dll
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.pdb
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.genruntimeconfig.cache
+D:\data_Learn\code_C#\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\ref\Question1.dll
